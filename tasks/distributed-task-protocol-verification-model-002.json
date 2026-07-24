@@ -1,0 +1,29 @@
+{
+  "id": "distributed-task-protocol-verification-model-002",
+  "title": "Verification model",
+  "project": "distributed-task-protocol",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "software",
+    "open-source",
+    "coordination"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Distributed work needs verifiable results.",
+  "objective": "Document the verification model (how a returned chunk is checked before acceptance).",
+  "acceptanceCriteria": [
+    "Defines verification steps and acceptance criteria",
+    "Handles disputes/rejection",
+    "MIT header"
+  ],
+  "output": "deliverables/distributed-task-protocol-verification-model-002.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

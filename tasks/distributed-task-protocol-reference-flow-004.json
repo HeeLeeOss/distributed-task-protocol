@@ -1,0 +1,29 @@
+{
+  "id": "distributed-task-protocol-reference-flow-004",
+  "title": "Reference flow walkthrough",
+  "project": "distributed-task-protocol",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "software",
+    "open-source",
+    "coordination"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "A concrete flow clarifies the spec.",
+  "objective": "Walk through a full claim-do-verify-accept cycle end to end.",
+  "acceptanceCriteria": [
+    "End-to-end reference walkthrough",
+    "References the spec sections",
+    "MIT header"
+  ],
+  "output": "deliverables/distributed-task-protocol-reference-flow-004.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

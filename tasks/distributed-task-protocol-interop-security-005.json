@@ -1,0 +1,29 @@
+{
+  "id": "distributed-task-protocol-interop-security-005",
+  "title": "Interop and security considerations",
+  "project": "distributed-task-protocol",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "software",
+    "open-source",
+    "coordination"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Reusable protocols need threat modeling.",
+  "objective": "Document interoperability and security considerations (trust, replay, verification bypass).",
+  "acceptanceCriteria": [
+    "Covers interop and a basic threat model",
+    "Non-offensive; defensive framing",
+    "MIT header"
+  ],
+  "output": "deliverables/distributed-task-protocol-interop-security-005.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

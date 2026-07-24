@@ -1,0 +1,29 @@
+{
+  "id": "distributed-task-protocol-claim-receipt-format-003",
+  "title": "Claim and receipt format",
+  "project": "distributed-task-protocol",
+  "type": "code",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "software",
+    "open-source",
+    "coordination"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Auditable coordination needs standard records.",
+  "objective": "Define the claim and receipt record formats for auditability.",
+  "acceptanceCriteria": [
+    "Defines claim and receipt schemas",
+    "Includes worked examples",
+    "MIT header"
+  ],
+  "output": "deliverables/distributed-task-protocol-claim-receipt-format-003.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "distributed-task-protocol-protocol-spec-001",
+  "title": "Chunk-coordination protocol spec",
+  "project": "distributed-task-protocol",
+  "type": "code",
+  "lane": "donated",
+  "priority": "high",
+  "domain": [
+    "software",
+    "open-source",
+    "coordination"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "A clear spec enables interoperable implementations.",
+  "objective": "Specify the protocol for claiming, doing, and returning chunked work, with states and messages.",
+  "acceptanceCriteria": [
+    "Defines states, messages, and claim/return flow",
+    "Implementation-neutral",
+    "MIT header"
+  ],
+  "output": "deliverables/distributed-task-protocol-protocol-spec-001.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}
